@@ -18,6 +18,6 @@ if(alien_color === "green"){
 let alien_color_2 : string = "Red";
 
 // Check if the alien's color is green
-if(alien_color === "green"){
+if(alien_color_2 === "green"){
     console.log("Congratulations! You just earned 5 points.");
 }
